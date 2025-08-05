@@ -2,7 +2,7 @@
 
 ### O'rnatish va Ishlatish
 ```bash
-git clone <repository_url>
-cd WordlistGenerator
-chmod +x generate_wordlist.sh
-./generate_wordlist.sh```
+git clone https://github.com/ozodbekdev-alfa/wordlist-generator.git
+cd wordlist-generator
+chmod +x wordlist.sh
+./wordlist.sh```
